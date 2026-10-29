@@ -1,0 +1,7 @@
+{
+  "FilePath": "data.xlsx",
+  "ExcelPassword": "your-password-here",
+  "FeedbackDurationMs": 800,
+  "RefreshCheckIntervalMs": 1800000,
+  "TopmostEnforceIntervalMs": 10000
+}

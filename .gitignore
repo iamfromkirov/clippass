@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Секреты и данные — не публиковать
+config.json
+data.xlsx
